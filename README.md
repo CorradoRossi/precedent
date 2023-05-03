@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/steventey">
-    <img src="https://img.shields.io/twitter/follow/steventey?style=flat&label=steventey&logo=twitter&color=0bf&logoColor=fff" alt="Steven Tey Twitter follower count" />
+  <a href="https://twitter.com/metastash">
+    <img src="https://img.shields.io/twitter/follow/metastash?style=flat&label=metastash&logo=twitter&color=0bf&logoColor=fff" alt="Metastash Twitter follower count" />
   </a>
   <a href="https://github.com/corradorossi/precedent">
     <img src="https://img.shields.io/github/stars/corradorossi/precedent?label=corradorossi%2Fprecedent" alt="WGMI repo star count" />
@@ -87,4 +87,6 @@ https://user-images.githubusercontent.com/28986134/212368288-12f41e37-aa8c-4e0a-
 
 ## Author
 
-- Steven Tey ([@steventey](https://twitter.com/steventey))
+- Metastash ([@metastash](https://twitter.com/metastash))
+
+Follow the instructions here to create a Google OAuth app: https://refine.dev/blog/nextauth-google-github-authentication-nextjs/#for-googleprovider-make-sure-you-have-a-google-account

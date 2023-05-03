@@ -15,7 +15,7 @@ export const metadata = {
     title: "WGMI - Building blocks for your Next.js project",
     description:
       "WGMI is the all-in-one solution for your Next.js project. It includes a design system, authentication, analytics, and more.",
-    creator: "@steventey",
+    creator: "@metastash",
   },
   metadataBase: new URL("https://wgmi.ltd"),
   themeColor: "#FFF",

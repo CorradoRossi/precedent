@@ -28,7 +28,7 @@ export default async function Home() {
     <>
       <div className="z-10 w-full max-w-xl px-5 xl:px-0">
         <a
-          href="https://twitter.com/steventey/status/1613928948915920896"
+          href="https://twitter.com/metastash/status/1613928948915920896"
           target="_blank"
           rel="noreferrer"
           className="mx-auto mb-5 flex max-w-fit animate-fade-up items-center justify-center space-x-2 overflow-hidden rounded-full bg-blue-100 px-7 py-2 transition-colors hover:bg-blue-200"
@@ -95,7 +95,7 @@ export default async function Home() {
           </a>
         </div>
       </div>
-      <div className="my-10 grid w-full max-w-screen-xl animate-fade-up grid-cols-1 gap-5 px-5 md:grid-cols-3 xl:px-0">
+      {/*<div className="my-10 grid w-full max-w-screen-xl animate-fade-up grid-cols-1 gap-5 px-5 md:grid-cols-3 xl:px-0">
         {features.map(({ title, description, demo, large }) => (
           <Card
             key={title}
@@ -111,12 +111,13 @@ export default async function Home() {
             large={large}
           />
         ))}
-      </div>
+      </div>*/}
     </>
   );
 }
 
-const features = [
+{
+  /*const features = [
   {
     title: "Beautiful, reusable components",
     description:
@@ -171,4 +172,5 @@ const features = [
       </div>
     ),
   },
-];
+];*/
+}
